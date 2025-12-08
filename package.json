@@ -1,5 +1,5 @@
 {
-  "name": "dolly-tabnews",
+  "name": "clone-tabnews",
   "version": "1.0.0",
   "description": "Clonagem de um projeto real (https://www.tabnews.com.br/) para aprender a implementar, de ponta a ponta, uma aplicação do zero.",
   "main": "index.js",
